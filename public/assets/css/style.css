@@ -2,22 +2,46 @@
   box-sizing: border-box;
   color: #ffffff;
 }
+h1{
+  font-size: 2rem;
+}
+h2{
+  font-size: 1.5rem;
+}
+.menu{
+  float: right;
+}
+
+.title, .more{
+  margin-top: 3rem;
+}
+.side-nav{
+  background-color:   #26a69a;
+}
+.side-nav li>a{
+  color: #ffffff;
+}
 .row{
   margin-bottom: 0;
-  padding: 2rem 0;
 }
-.nosotros{
+#nosotros{
   background-color: #4db393;
   padding: 3rem 1rem;
 }
-.dog-characteristics{
+.dog-characteristics, nav{
   background-color: #3d4040;
 }
+.padding-0 {
+  padding: 0 !important;
+  }
 .characteristics{
   background-color: #5a54b5;
 }
 .cuadros{
   padding: 2rem !important;
+}
+.cuadros-margin{
+  margin-top: 2rem;
 }
 @media only screen and (min-width: 601px){
 .borde-left{
