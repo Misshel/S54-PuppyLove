@@ -1,0 +1,26 @@
+{
+  "name": "puppy-love",
+  "version": "1.0.0",
+  "description": "pagina para adopcion de mascotas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Misshel/S54-PuppyLove.git"
+  },
+  "keywords": [
+    "SEO"
+  ],
+  "author": "Misshel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Misshel/S54-PuppyLove/issues"
+  },
+  "homepage": "https://github.com/Misshel/S54-PuppyLove#readme",
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}
